@@ -2833,8 +2833,6 @@ spec:
                           properties:
                             path:
                               type: string
-                            type: 
-                              type: string
                           required:
                           - path
                           type: object
